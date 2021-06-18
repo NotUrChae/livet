@@ -92,8 +92,20 @@ https://list.iptvcat.com/my_list/s/a38d0783bd8083d332c7a34707076762.m3u8
 #EXTINF:-1 group-title="News",Dunya News
 https://list.iptvcat.com/my_list/s/0c6cbe6fd0781dac696960713b293340.m3u8
 
-Willow HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oiPv1gH.jpg" group-title="Entertainment",Willow HD
 https://list.iptvcat.com/my_list/s/e45fecc332c77da2fcab4c76d7f37acc.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oiPv1gH.jpg" group-title="Entertainment",Zee Tv Canada
+https://y5w8j4a9.ssl.hwcdn.net//index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oiPv1gH.jpg" group-title="Entertainment",PTC Punjabi Gold
+https://streaming.ptcplay.com/ptcpunjabiGoldINOne/smil:Live.smil/chunklist_w1855918665_b1396000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oiPv1gH.jpg" group-title="Entertainment",PTC Punjabi
+https://streaming.ptcplay.com/ptcPunjabiINOne/smil:Live.smil/chunklist_w1389871650_b1396000_sleng.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oiPv1gH.jpg" group-title="Entertainment",Zee Cafe
+https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 group-title="News",Geo News
 https://list.iptvcat.com/my_list/s/c258fbba916c91b53a880cc31c2b73fd.m3u8
@@ -137,23 +149,11 @@ http://stream-e30453a4b.nmbs.top/m3u/Pakistan/895fb98ab9.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6peuXXS.png" group-title="Entertainment",Geo Entertainment 
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp1/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ezDWV4p.png" group-title="Entertainment",Ary Zindagi
-https://stream.arylive.com/ZindagiLive/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BbM8uiu.png" ,Venus TV
 https://a.jsrdn.com/broadcast/22690/-0500/c.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YcE3eWq.png" ,Toronto360
 http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NqoafIj.png" ,Hum Masala
-https://itpolly.iptv.digijadoo.net/live/hum_masala/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8v2gjvw.png" group-title="Entertainment",AndTV
-http://103.214.202.218:8081/live/andtv-27/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8v2gjvw.png" group-title="Entertainment",AndTV 2
-http://45.120.188.76:8080/0.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FsBP6K.png" group-title="Entertainment",AndFlix HD
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
@@ -247,6 +247,9 @@ https://y5w8j4a9.ssl.hwcdn.net/zeecinemame/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oiPv1gH.jpg" group-title="Entertainment",And Explor
 http://hin2.error-404.website/&explore_hin/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oiPv1gH.jpg" group-title="Entertainment",Geo Super
+https://jk3lz82elw79-hls-live.5centscdn.com/Geo/83ccf718ec6040646c295cb25dbef052.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oiPv1gH.jpg" group-title="Entertainment",Bolly One
 http://hin2.error-404.website/BOLLYONE_HIN/tracks-v1a1/mono.m3u8
@@ -374,40 +377,8 @@ https://playlive.goonj.pk/jalwaweb_480p/index.m3u8
 #EXTINF:-1 group-title="Music",1Music
 http://1music.hu/1music.m3u8
 
-#EXTINF:-1 group-title="Entertainment",MTA 1 Urdu
-https://ooyalahd2-f.akamaihd.net/i/mtaurdu_delivery@350117/master.m3u8
-
-#EXTINF:-1 group-title="Italia",Rai 1 
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/64358.m3u8?checkedby:hlscat.com
-
-#EXTINF:-1 group-title="Italia",Rai 2
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/64359?checkedby:hlscat.com
-
-#EXTINF:-1 group-title="Italia",Rai 4 
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/64361?checkedby:hlscat.com
-
-#EXTINF:-1 group-title="Italia",Rai 5 
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/79550?checkedby:hlscat.com
-http://146.59.145.53:80/anna/anna/99050?checkedby:hlscat.com
-
-#EXTINF:-1 group-title="Italia",Rai Movie 
-http://momotv.eu:2300/torino/torino/10595?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="Italia",Rai Premium 
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/23648.m3u8?checkedby:hlscat.com
-http://146.59.145.53:80/anna/anna/99048?checkedby:hlscat.com
-
 #EXTINF:-1 group-title="Italia",Rai News24 
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_1800/chunklist.m3u8
-
-#EXTINF:-1 group-title="Italia",Rai Storia
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/79656.m3u8?checkedby:hlscat.com
-
-#EXTINF:-1 group-title="Italia",Rai Gulp 
-https://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/index_1800_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 group-title="Italia",Rai Gulp HD
-http://momotv.eu:2300/torino/torino/10597?checkedby:iptvcat.com
 
 #EXTINF:-1 group-title="Italia",Rai Yoyo 
 http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/79643?checkedby:hlscat.com
@@ -417,12 +388,6 @@ https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kb)/
 
 #EXTINF:-1 group-title="Italia",Cartoonito 
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(la)/index.m3u8
-
-#EXTINF:-1 group-title="Italia",Italia 1 
-http://146.59.145.53:80/anna/anna/99040?checkedby:hlscat.com
-
-#EXTINF:-1 group-title="Italia",Italia 2 
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i2)/index.m3u8
 
 #EXTINF:-1 group-title="Italia",Discovery
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8
@@ -441,9 +406,6 @@ https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
 
 #EXTINF:-1group-title="News",NBC News 
 https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index.m3u8
-
-#EXTINF:-1group-title="News",BBC News
-http://51.52.156.22:8888/http/004
 
 #EXTINF:-1group-title="News",Sky News 
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
