@@ -83,6 +83,12 @@ https://list.iptvcat.com/my_list/s/ba1f2f58f7b5b5b9a91f776309ebe009.m3u8
 #EXTINF:-1 group-title="Entertainment",Sony Max HD
 https://list.iptvcat.com/my_list/s/2a2d0e8cf7867c621396f833a09f0233.m3u8
 
+#EXTINF:-1 group-title="Entertainment",Sony Max FHD
+https://list.iptvcat.com/my_list/s/871c1b90fb295f54b4b8bc4b9f309db8.m3u8
+
+#EXTINF:-1 group-title="Entertainment",Star Plus Utsav
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/48934?checkedby:iptvcat.com
+
 #EXTINF:-1 group-title="Entertainment",BollywooD Classic
 https://list.iptvcat.com/my_list/s/017b50d3ddfbe29ebdd2e2eed158cd38.m3u8
 
