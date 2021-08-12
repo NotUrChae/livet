@@ -20,6 +20,18 @@ https://list.iptvcat.com/my_list/s/6a3d1b3da56c7dabc876eb3cd399ed74.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/dECHRLO.jpg" group-title="News",Republic TV
 https://weblive.republicworld.com/liveorigin/republictv/master_hdlive_720p.m3u8
 
+#EXTINF:-1 group-title="Entertainment",Urdu Tv Toronto
+http://cdn4.live247stream.com/urdu/tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Entertainment",Utsav Gold
+https://list.iptvcat.com/my_list/s/5f82eda8cc9412c006c64a683a2dd298.m3u8
+
+#EXTINF:-1 group-title="Entertainment",Utsav Bharat
+https://list.iptvcat.com/my_list/s/c362ab7a4197c7c5576ebaed4b188949.m3u8
+
+#EXTINF:-1 group-title="Entertainment",Utsav Plus 
+https://list.iptvcat.com/my_list/s/f661e2a5978375248baa8cfa34157059.m3u8
+
 #EXTINF:0 tvg-logo="https://i.imgur.com/MiRgBN6.png" group-title="News",India Today
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/indiatoday_5/chunklist.m3u8
 
@@ -292,15 +304,6 @@ https://m-c09-j2apps.s.llnwi.net/hls/8003.Lollywood.in_288p/index.m3u8
 
 #EXTINF:-1 group-title="Entertainment",Bollywood
 https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in_480p/index.m3u8
-
-#EXTINF:-1 group-title="Entertainment",Shemaroo 
-https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8
-
-#EXTINF:-1 group-title="Entertainment",Shemaroo Bollywood Premier 
-https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1920x1080_cf.m3u8
-
-#EXTINF:-1 group-title="Entertainment",Shemaroo Punjabi 
-https://livechannel.shemaroome.com/linearplayout/punjabi-linear-channel/chunklist_1920x1080_cf.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 group-title="Entertainment",Jhanjar 
 http://159.203.9.134/hls/jhanjar_hd/jhanjar_hd.m3u8
